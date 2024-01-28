@@ -1,0 +1,102 @@
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url(./assets/images/codioful-formerly-gradienta-m_7p45JfXQo-unsplash.jpg);
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    background-color: #556eafcd;
+}
+
+.main-name {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 10rem;
+}
+
+.lead {
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.profile-img {
+    border: 0;
+    border-radius: 50%;
+}
+
+.text-body-secondary {
+    font-size: 2rem;
+}
+
+.skills {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    font-size: 2rem;
+    background-color:rgba(131, 85, 174, 0.7) ;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+.skill-head {
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 3.5rem;   
+    font-weight: bolder;
+}
+
+.skill-type {
+    color: #E8CFFF;
+    font-weight: bold;
+}
+
+.skill-desc {
+    font-size: 1.5rem;
+    color: white;
+    text-align: left;
+    text-shadow: 20px;
+}
+
+.resume {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    background-color: rgba(62, 230, 174, 0.62);
+}
+
+.res-head {
+    font-family: 'Cormorant Garamond', serif; 
+    margin-top: 20px;  
+    font-size: 50px;
+}
+
+.res-desc {
+    font-size: 1.5rem;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.interests {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    background-color:rgba(62, 163, 230, 0.76);
+}
+
+.card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+};
+
